@@ -1,0 +1,15 @@
+{
+  "name": "random-helper-function",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "pawelkrystkiewicz <pawelkrystkiewicz@outlook.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "dependencies": {
+    "jest": "^27.3.1"
+  }
+}
